@@ -1,7 +1,8 @@
 # Stock Price Prediction
 
     Predict future stock prices using Machine Learning with FastAPI and PostgreSQL.
-    This project demonstrates a simplified stock price prediction system using historical stock data. It features Linear Regression provides trend visualization, and exposes a REST API for easy integration.
+    This project demonstrates a simplified stock price prediction system using historical stock data.
+    It features Linear Regression provides trend visualization, and exposes a REST API for easy integration.
 
 ## Features
     - Store historical stock data in PostgreSQL
